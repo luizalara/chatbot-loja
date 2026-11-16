@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 # CONFIG DA PÁGINA
-
+# USAR EMOJI NÃO SIGNIFICA QUE É BOOT👀
 st.set_page_config(
     page_title="IA de Atendimento",
     page_icon="🤖",
