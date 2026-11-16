@@ -1,0 +1,4 @@
+﻿.env
+conversas.json
+__pycache__/
+.venv/

@@ -1,0 +1,20 @@
+[
+    {
+        "produto": "Vestido Floral",
+        "preco": "99,90",
+        "descricao": "Vestido estampado nos tamanhos P, M e G",
+        "estoque": 15
+    },
+    {
+        "produto": "Camiseta Básica",
+        "preco": "49,90",
+        "descricao": "Camiseta de algodão disponível em várias cores",
+        "estoque": 30
+    },
+    {
+        "produto": "Saia",
+        "preco": "89,90",
+        "descricao": "Saia estampada nos tamanhos P, M e G",
+        "estoque": 8
+    }
+]
